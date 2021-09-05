@@ -1,0 +1,14 @@
+cButton = 0, 0, 0, 0, C
+cButtons = 0, 0, 0, 0, C
+cFontDef = 0, 0, 0, 0, C
+cFormatDef = 0, 0, 0, 0, C
+cGradientDef = 0, 0, 0, 0, C
+cMemDC = 0, 0, 0, 0, C
+ctxOutlookBar = 0, 0, 0, 0, C, 104, 104, 868, 530, C
+mdGlobals = 0, 0, 0, 0, C
+pagFormats = 0, 0, 0, 0, C, 130, 130, 894, 556, C
+pagGroups = 0, 0, 0, 0, C, 156, 156, 920, 582, C
+mdErrorHandling = 78, 78, 842, 504, 
+cSubclassingThunk = 0, 0, 0, 0, C
+cHookingThunk = 52, 52, 816, 478, 
+cWheelHook = 0, 0, 0, 0, C
